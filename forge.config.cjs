@@ -34,7 +34,7 @@ module.exports = {
                     name: "electron-forge-releaseTest",
                 },
                 prerelease: false,
-                draft: false,
+                draft: true,
             },
         },
     ],
