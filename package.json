@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "description": "asdf",
     "license": "ISC",
-    "author": "",
+    "author": "eletron-test",
     "type": "module",
     "main": "main.js",
     "scripts": {
